@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questão 1</title>
+</head>
+<body>
+    <strong>Escreva um algoritmo que receba 4 notas, Calcule a média das notas e mostre na tela.
+        Se a média for maior ou igual a 6, escreva " Aprovado", senão escreva "Reprovado"</strong>
+
+
+    <script>
+        const n1 = parseInt(prompt (" qual é a primeira nota?"))
+        const n2 = parseInt(prompt(" qual é a segunda nota?"))
+        const n3 = parseInt(prompt(" qual é a terceira nota?"))
+        const n4 = parseInt(prompt("diga a quarta e ultima nota:"))
+
+        const media = (n1+n2+n3+n4)/4 
+
+        if (media>=6){
+            alert(`aluno aprovado ${media}`)
+        }else {
+            alert(`aluno reprovado ${media}`)
+        }
+
+    </script>
+</body>
+</html>
