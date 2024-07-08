@@ -1,5 +1,5 @@
 # -Aprenda-
-Contem informações na qual ajudam na aprendizado.
+Contem informações na qual ajudam no aprendizado.
 
 # <h1> Dev. Marcelo Souza</h1>
 <p>( apresentação )</p>
