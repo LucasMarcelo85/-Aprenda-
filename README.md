@@ -1,11 +1,26 @@
-# -Aprenda-
-Contem informações na qual ajudam no aprendizado.
+# Aplicativo de Ensino de Funções JavaScript
 
-# <h1> Dev. Marcelo Souza</h1>
-<p>( apresentação )</p>
+Este repositório contém um aplicativo web simples desenvolvido em HTML e CSS, focado em ensinar as funções básicas do JavaScript. O aplicativo inclui exemplos interativos e exercícios práticos para ajudar os iniciantes a entenderem os conceitos essenciais.
 
-<strong>Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou iniciando minha jornada na área de programação.
-Tenho um grande interesse em desenvolver minhas habilidades técnicas e criar soluções inovadoras. Atualmente, estou trabalhando em meus primeiros projetos, onde estou aplicando os conhecimentos adquiridos no curso e explorando novas tecnologias.</strong>
+## Funcionalidades
+
+- **Introdução às Funções:** Explicação sobre o que são funções em JavaScript e por que são importantes.
+- **Exemplos Práticos:** Demonstração de funções simples, como cálculos matemáticos e manipulação de strings.
+- **Exercícios:** Desafios para os usuários praticarem a criação e chamada de funções.
+
+## Como Usar
+
+1. Clone este repositório para o seu computador.
+2. Abra o arquivo `index.html` em um navegador web.
+3. Explore os exemplos e tente resolver os exercícios.
+
+## Contribuição
+
+Se você gostaria de contribuir para este projeto, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**. Toda ajuda é bem-vinda!
+
+## Licença
+
+Este projeto está licenciado sob a MIT License.
 
 <picture>
   <source
